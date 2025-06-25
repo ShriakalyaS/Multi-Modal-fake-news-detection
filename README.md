@@ -1,4 +1,4 @@
-#  Multi-Modal Fake News Detection with Multi-View Fusion
+#  Multiview-Fake-News-Detection
 
 This project implements a robust fake news detection system using **multi-modal learning**, integrating four complementary views:
  Textual Content  
